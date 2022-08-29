@@ -21,3 +21,5 @@ print("the result is {r:1.3}".format(r=result)) # r:virgülün sol tarafı, virg
 # all variables
 print(f"My name is {name} {surname}") # Tırnaklardan önce 'f' gelirse
 
+strcarp="abc"*3
+print(strcarp)
