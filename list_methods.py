@@ -66,7 +66,3 @@ numbers.clear()
 letters.clear()
 print(numbers)
 print(letters)
-
-
-
-
