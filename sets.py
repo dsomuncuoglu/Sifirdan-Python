@@ -26,6 +26,7 @@ print("\n")
 
 fruits.pop() # Set'de sıra olmadığı için pop ile rastgele bir eleman silinebilir.
 
+fruits.clear() # Tüm Set silinir.
 printFruits()
 print("\n")
 
