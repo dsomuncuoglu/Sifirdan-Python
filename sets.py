@@ -31,6 +31,6 @@ print("\n")
 
 expList=[1,2,3,4,4,5,6,5,6,8]
 
-print(expList) # Normal liste
-print(set(expList)) # Set'in en önemli yanı tekrar eden verileri almaz.
+print("Normal Liste= ",expList) # Normal liste
+print("Set Kullanilmis Hali= ",set(expList)) # Set'in en önemli yanı tekrar eden verileri almaz.
 
