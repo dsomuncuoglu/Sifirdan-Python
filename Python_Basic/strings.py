@@ -1,3 +1,7 @@
+
+#   Deniz Somuncuoglu
+
+
 name,surname,age=("Deniz","Somuncuoğlu",23)
 
 # \n alt satıra geçmek için kullanılır.

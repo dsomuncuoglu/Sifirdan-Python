@@ -1,3 +1,6 @@
+
+#   Deniz Somuncuoglu
+
 #Sayi veri tipleri
 #İnteger 5
 #Float 5.52

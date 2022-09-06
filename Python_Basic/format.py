@@ -1,5 +1,5 @@
-from unittest import result
 
+#   Deniz Somuncuoglu
 
 name="Deniz"
 surname="Somuncuoglu"

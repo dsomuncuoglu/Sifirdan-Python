@@ -1,3 +1,7 @@
+
+#   Deniz Somuncuoglu
+
+
 fruits={"apple","banana","orange","dragon fruit","peace","melon"}
 
 # print(fruits[0]) indexlenemez sets

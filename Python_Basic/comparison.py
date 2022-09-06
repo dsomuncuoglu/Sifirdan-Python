@@ -1,3 +1,7 @@
+
+#   Deniz Somuncuoglu
+
+
 # DB => username="deniz",
 #       password="12345"
 # 
@@ -24,7 +28,7 @@ if result_u and result_p is True:
 else:
     print("Kullanici adi ve parolanız yanlış tekrar deneyin.")
 
-a,b,c=5,5,10
+a,b,c=5,5,11
 
 print("A B'ye eşit midir?",a==b)
 print("A B'den büyük müdür?",a>b)

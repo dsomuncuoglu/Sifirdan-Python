@@ -1,3 +1,7 @@
+
+#   Deniz Somuncuoglu
+
+
 # Identity Operator: is (ayni bellek alanini isaret eder) not is (ayni bellek alanini isaret etmez.)
 
 x=y=[1,2,3]

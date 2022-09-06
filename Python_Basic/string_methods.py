@@ -1,4 +1,7 @@
 
+#   Deniz Somuncuoglu
+
+
 metin="Deniz Somuncuoglu"
 
 buyuk=metin.upper() # Tüm metini büyük harf ile yazar

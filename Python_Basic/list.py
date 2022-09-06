@@ -1,3 +1,6 @@
+
+#   Deniz Somuncuoglu
+
 my_list=[1,2,3]
 print(my_list)
 my_list2=["bir",2,True,5.2]

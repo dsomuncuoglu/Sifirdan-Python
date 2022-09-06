@@ -1,3 +1,7 @@
+
+#   Deniz Somuncuoglu
+
+
 x=int(input("1.sayiyi giriniz="))
 y=int(input("2.sayiyi giriniz="))
 

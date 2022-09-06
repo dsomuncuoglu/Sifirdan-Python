@@ -1,3 +1,6 @@
+
+#   Deniz Somuncuoglu
+
 x=6
 result=5<x<10
 

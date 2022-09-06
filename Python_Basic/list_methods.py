@@ -1,3 +1,6 @@
+
+#   Deniz Somuncuoglu
+
 numbers=[1,3,4,56,10,5,34,44,10,88,-15,-1]
 letters=['a','g','c','y','b','c','z','t','c','k']
 

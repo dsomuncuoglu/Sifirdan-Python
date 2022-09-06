@@ -1,4 +1,6 @@
 
+#   Deniz Somuncuoglu
+
 # key - value mantığı ile çalışır
 
 # 16 => Bursa, 34 => İstanbul temsil ediyor.

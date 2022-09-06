@@ -1,4 +1,6 @@
 
+#   Deniz Somuncuoglu
+
 sayi1=int(input("Birinci sayiyi girin = "))
 sayi2=int(input("İkinci sayiyi girin = "))
 
