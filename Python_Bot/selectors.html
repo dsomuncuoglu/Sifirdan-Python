@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #header{
+            font-size: 45px;
+            color: red;
+        }
+        .ders h2{
+            color: blue;
+        }
+        .ders.csharp{
+            background-color: chartreuse;
+        }
+        #username{
+            padding: 10px;
+        }
+        input{
+          background-color: red;  
+        }
+        #submit{
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1 id="header">Dosyalar</h1>
+        <hr>
+        <div class="ders python">
+            <h2>Python</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum, incidunt.</p>
+        </div>
+        <div class="ders javascript">
+            <h2>JavaScript</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum, incidunt.</p>
+        </div>
+        <div class="ders csharp">
+            <h2>C#</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum, incidunt.</p>
+        </div>
+        <div>
+            <form>
+                username :<input type="text" name="username" id="username"><br>
+                password :<input type="password" name="password" id="password"><br>
+                <input type="submit" value="Login" id="submit"><br>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
