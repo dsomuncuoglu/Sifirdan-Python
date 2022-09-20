@@ -28,12 +28,12 @@ searchInput.send_keys(inputText)
 searchInput.send_keys(Keys.ENTER)
 driver.fullscreen_window()
 typeText=driver.find_elements(By.CSS_SELECTOR,".v-align-middle")
-blank=driver.find_elements(By.CSS_SELECTOR,".blankslate")
-bulunamadi=(f"We couldn’t find any repositories matching '{inputText}'\nYou could try an advanced search.")
+blank=driver.find_elements(By.CSS_SELECTOR,".blankline")
+bulunmadi=(f"We couldn’t find any repositories matching '{inputText}'\nYou could try an advanced search.")
 
 for blanks in blank:
     blankText=blanks.text
-    if blankText in bulunamadi:
+    if blankText in bulunmadi:
         print(f"Aranan {inputText} söz dizini bulunamadı.")
         break
 
